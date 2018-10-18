@@ -738,12 +738,12 @@ std::cout << "\n";
 GetKSmallest(input, 2);
 std::cout << "\n";
 
-MergeUnderscores("penis_____________poop __ pee _ balls _____ gas____________");
+MergeUnderscores("u_____________poop __ pee _e _____ gas____________");
 std::cout << "\n";
 
-std::string ballsacs = "vagina           vagina ass";
+std::string oeu = "oeu           u .";
 
-ReverseWordsInString(ballsacs);
+ReverseWordsInString(oeu);
 
 std::vector<int> input2 = GenerateData(6);
 
