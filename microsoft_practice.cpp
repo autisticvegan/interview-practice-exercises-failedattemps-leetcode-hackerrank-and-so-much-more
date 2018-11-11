@@ -17,7 +17,7 @@ struct ListNode {
 	ListNode(int x) : val(x), next(NULL) {}
 };
 
-
+//note less and vectors are default for pq
 std::vector<int> GetKSmallest(std::vector<int>& input, int amount)
 {
 	std::priority_queue<int, std::vector<int>, std::less<int>> maxheap;
