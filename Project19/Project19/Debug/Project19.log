@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\001101010010\documents\visual studio 2017\projects\project19\project19\source.cpp(261): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\001101010010\documents\visual studio 2017\projects\project19\project19\source.cpp(263): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\001101010010\documents\visual studio 2017\projects\project19\project19\source.cpp(272): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\001101010010\documents\visual studio 2017\projects\project19\project19\source.cpp(275): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\001101010010\documents\visual studio 2017\projects\project19\project19\source.cpp(276): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+c:\users\001101010010\documents\visual studio 2017\projects\project19\project19\source.cpp(278): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  Project19.vcxproj -> C:\Users\001101010010\Documents\Visual Studio 2017\Projects\Project19\Debug\Project19.exe
