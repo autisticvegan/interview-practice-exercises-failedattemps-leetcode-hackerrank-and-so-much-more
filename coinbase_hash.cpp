@@ -15,6 +15,7 @@ public:
 	std::vector<std::pair<std::string,std::string>> store;
 	bool usebadhash = true;
 
+//WARNING NEED TO FIX - USE TOMBSTONE VALUES FOR DELETE NOT BLANK STRINGS
 
 	std::string get(const std::string& key)
 	{
