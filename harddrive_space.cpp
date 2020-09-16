@@ -9,11 +9,9 @@
 /*
   Interesting findings: for small window size redblacktree (map) is worse, but it is better
   than deque in bigger window sizes.  ?_?
-  Shoutouts to coinbase for a good question, no shoutouts to hackerrank for having a trash
-  platform that changes testcases based on whether comments are in code or not LOL
 */
 
-using namespace std::chrono; //LOL BAD CODE
+using namespace std::chrono; //just for timing, don't normally do this
 
 int findMaxOfMins(int windowSize, std::vector<int>& arr) {
 
